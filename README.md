@@ -21,7 +21,7 @@
 
 ---
 
-## This organaization aims to chach the mood of the comfyness and cozyness SEIG physics club had. Use it however you like, including the option of jut  leaving it.
+## This organaization aims to catch the mood of comfyness and cozyness SEIG physics club had. Use it however you like, including the option of just leaving it.
 
 Was thinking of not excluding non-SEIG physics club members but then I suppose we'll have to make the organazation public, which I kind of don't want.
 
