@@ -19,5 +19,11 @@
 多分物理要素はほぼ皆無だと思いますしコード関連じゃなくても適当に使いみち見つければ勝手にリポジトリ立ててしまって問題ありません。
 ぶっ壊してもたぶんITつよつよ人間がなんとかしてくれるので就職後にGit使うらしいけど何もわからんとか言う人もあまり気負わずに使ってみてください。
 
+---
 
+## This organaization aims to chach the mood of the comfyness and cozyness SEIG physics club had. Use it however you like, including the option of jut  leaving it.
 
+Was thinking of not excluding non-SEIG physics club members but then I suppose we'll have to make the organazation public, which I kind of don't want.
+
+Making new repos are not prohibitted and you can use it however you like. Including repos of non IT stuff (although can't think of any... maybe using it as a blog of some kind?). The feeling of inclusiveness is what I want so any thing is OK. Repos about physics probabbly won't be made, seen from the years at SEIG, but as said earier, anything is allowed.
+Some might need to know git when going job hunting or just are plain curios about git, breaking git is kind of a tradition to anyone who's starting out with the craft of git at this point so don't hesitate to ask other people. 
